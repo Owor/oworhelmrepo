@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chartowor:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-09T20:22:46.333585942+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 183637e0f006df781f73f7fdeb8a93aae20492b4e26a5b28f8d2f2a41aae4601
+    name: chartowor
+    type: application
+    urls:
+    - https://mattiaperi.github.io/oworchart/chartowor-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-09T20:22:46.332900085+08:00"
